@@ -1,0 +1,2 @@
+# springcloud-resource
+springcloud-resource
